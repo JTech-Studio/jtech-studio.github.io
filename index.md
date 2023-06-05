@@ -1,1 +1,0 @@
-# JTech Studio
