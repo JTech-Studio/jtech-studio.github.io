@@ -13,3 +13,6 @@ body {
     background-color: aquamarine;
 }
 
+.round-radius {
+    border-radius: 4;
+}
